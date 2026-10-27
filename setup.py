@@ -282,6 +282,7 @@ entry_points = {
         'oledir=oletools.oledir:main',
         'oleid=oletools.oleid:main',
         'olemap=oletools.olemap:main',
+        'oleowner=oletools.oleowner:main',
         'olemeta=oletools.olemeta:main',
         'oletimes=oletools.oletimes:main',
         'olevba=oletools.olevba:main',
